@@ -6,10 +6,10 @@ baseurl_featured_thumbnail: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/thumb
 baseurl_javascripts: '/Girls-Coding-Day-Jekyll-blog-3/assets/javascripts/'
 
 # 网页的标题
-title: "强棒天使--阿余女子的陪伴日记"
+title: "强棒少女的陪伴日记"
 # 网站的主标题
-name: "强棒天使--阿余女子的陪伴日记"
-description: "搭建爱的桥梁(●'◡'●)"
+name: "强棒少女的陪伴日记"
+description: "--阿余女子(●'◡'●)"
 
 url: site url
 icon: your site icon path # /assets/img/icon.png [best 300px X 300px]
